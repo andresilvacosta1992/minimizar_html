@@ -286,3 +286,16 @@ Already up to date.
 [0;34m[INFO][0m Verificando arquivos grandes (≥100MB)...
 [0;32m✅ Nenhum arquivo grande encontrado[0m
 [0;34m[INFO][0m Git add .
+[0;34m[INFO][0m Verificando limites adicionais...
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+[0;34m[INFO][0m Git commit
+[master d28082f] backup automatico - 2026-08-26 18:10:39
+ 1 file changed, 22 insertions(+)
+[0;34m[INFO][0m Git push
+To https://github.com/andresilvacosta1992/minimizar_html.git
+   6d3f890..d28082f  master -> master
+[0;32m[SUCCESS][0m Backup concluído!
+[2026-08-26 18:10:42] Backup concluído com sucesso
+Aguardando 5 minutos...
+
